@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "6120",
+      "text": "VueJS Task Tracker Project",
+      "day": "By May 5 at 5:00pm",
+      "reminder": false
+    },
+    {
+      "id": "bdd7",
+      "text": "VueJS Task Tracker Project",
+      "day": "By May 5 at 5:00pm",
+      "reminder": true
+    },
+    {
+      "id": "050e",
+      "text": "VueJS Task Tracker Project",
+      "day": "By May 5 at 5:00pm",
+      "reminder": true
+    },
+    {
+      "id": "c39b",
+      "text": "                         dummy task",
+      "day": "uhrfuhuhuefh",
+      "reminder": false
+    },
+    {
+      "id": "93b7",
+      "text": "ndindi",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "aecc",
+      "text": "dummy task",
+      "day": "                               uhu7hu7y73",
+      "reminder": false
+    }
+  ]
+}
